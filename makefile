@@ -1,0 +1,2 @@
+make: Player.cpp Card.cpp Item.cpp Follower.cpp Personality.cpp Holding.cpp DeckBuilder.cpp GameBoard.cpp main.cpp
+	g++ -std=c++11 -g Player.cpp Card.cpp Item.cpp Follower.cpp Personality.cpp Holding.cpp DeckBuilder.cpp GameBoard.cpp main.cpp -o L5R
